@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Nikunj1311
-- 👀 I’m interested in Data Science, software development, and economic research.
-- 🌱 I’m currently learning software development, with C++ as a base.
-- 💞️ I’m looking to collaborate on SDE projects.
-- 📫 How to reach me f20190343@pilani.bits-pilani.ac.in
+- 👋 Hi, I’m Nikunj Mehadia
+- 👀 I’m interested in Software Development, Blockchain and Fintech.
+- 🌱 I am a proficient software developer with C++ as my base, but also fluent in Java, Shell script, PL/SQL, HTML/CSS/JavaScript
+- 💞️ I’m looking to collaborate on SDE projects and learn new technical stuff.
+- 📫 How to reach me mehadianikunj@gmail.com
 
 <!---
 Nikunj1311/Nikunj1311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
